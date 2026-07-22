@@ -1,0 +1,6 @@
+{
+  "name": "HUB Pro",
+  "description": "Hide and lock existing applications on your phone with Master PIN, Face/Biometric Recognition, 2-Factor Authentication, Calculator Disguise, and Secret File Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

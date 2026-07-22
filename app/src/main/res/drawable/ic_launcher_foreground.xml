@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group>
+        <!-- Letter 'h' -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M24,38 h5.5 v11.5 c1.2,-2 3.5,-3.5 7,-3.5 c5,0 8,3.5 8,9.5 v11 h-5.5 v-10 c0,-3.5 -1.8,-5.2 -4.8,-5.2 c-3,0 -4.7,1.8 -4.7,5.2 v10 h-5.5 Z" />
+
+        <!-- Letter 'u' -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M47,46 h5.5 v10.5 c0,3.2 1.8,4.8 4.8,4.8 c3,0 4.8,-1.6 4.8,-4.8 v-10.5 h5.5 v10.5 c0,6.5 -4.2,9.8 -10.3,9.8 c-6.1,0 -10.3,-3.3 -10.3,-9.8 Z" />
+
+        <!-- Letter 'b' stem and upper loop in White -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M70,38 h5.5 v10.2 c1.5,-1.6 3.8,-2.2 6.5,-2.2 c6.2,0 11,4.5 11,10.5 c0,1.2 -0.2,2.4 -0.6,3.5 h-6 c0.4,-1.1 0.6,-2.3 0.6,-3.5 c0,-3.8 -2.8,-6.2 -6.5,-6.2 c-3.8,0 -6.5,2.4 -6.5,6.2 v10 h-4 Z" />
+
+        <!-- Segmented Blue Radial Graphic on lower 'b' loop -->
+        <!-- Segment 1: Light Cyan -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M 72.5,58 A 9.5,9.5 0 0,0 79.2,67.2 L 80.8,62.2 A 4.2,4.2 0 0,1 77.8,58 Z" />
+
+        <!-- Segment 2: Sky Blue -->
+        <path
+            android:fillColor="#00A2FF"
+            android:pathData="M 79.2,67.2 A 9.5,9.5 0 0,0 87.5,64.8 L 84.8,60.8 A 4.2,4.2 0 0,1 80.8,62.2 Z" />
+
+        <!-- Segment 3: Royal Blue -->
+        <path
+            android:fillColor="#0052FF"
+            android:pathData="M 87.5,64.8 A 9.5,9.5 0 0,0 92,58 L 86.8,58 A 4.2,4.2 0 0,1 84.8,60.8 Z" />
+
+        <!-- Segment 4: Deep Navy Blue -->
+        <path
+            android:fillColor="#152B99"
+            android:pathData="M 92,58 A 9.5,9.5 0 0,0 87.5,51.2 L 84.8,55.2 A 4.2,4.2 0 0,1 86.8,58 Z" />
+    </group>
+</vector>
